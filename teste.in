@@ -1,0 +1,13 @@
+12
+100 100 random
+100 100 reverseSorted
+1000 1000 random
+1000 1000 reverseSorted
+10000 10000 random
+10000 10000 reverseSorted
+100000 100000 random
+100000 100000 reverseSorted
+1000000 1000000 random
+1000000 1000000 reverseSorted
+10000000 10000000 random
+10000000 10000000 reverseSorted
